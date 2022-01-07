@@ -1,12 +1,12 @@
 # DeckOfCards
-Card.java- Class to build card objects__
+Card.java- Class to build card objects  
 Constructor: Card(String suit, int rank)
 Methods:
 - getSuit()
 - getRank()
 
 
-Main.java- Runner class to implment a deck of cards__
+Main.java- Runner class to implment a deck of cards  
 Methods:
 - populateDeck()- populates deck with all 52 cards
 - sortRank()- sorts cards by rank ignoring suite
