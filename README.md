@@ -1,7 +1,9 @@
 # DeckOfCards
 Card.java- Class to build card objects
+
 Constructor:
 	Card(String suit, int rank)
+
 Methods:
 	getSuit()
 	getRank()
